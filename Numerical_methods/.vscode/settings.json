@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "linein_uravnenia": "cpp",
+        "vector": "cpp"
+    }
+}
